@@ -1,0 +1,10 @@
+D:\Web_design\eLearning\Learing.Data\obj\Debug\Learning.Data.csprojResolveAssemblyReference.cache
+D:\Web_design\eLearning\Learing.Data\bin\Debug\Learing.Data.dll.config
+D:\Web_design\eLearning\Learing.Data\bin\Debug\Learing.Data.dll
+D:\Web_design\eLearning\Learing.Data\bin\Debug\Learing.Data.pdb
+D:\Web_design\eLearning\Learing.Data\bin\Debug\EntityFramework.dll
+D:\Web_design\eLearning\Learing.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\Web_design\eLearning\Learing.Data\bin\Debug\EntityFramework.xml
+D:\Web_design\eLearning\Learing.Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\Web_design\eLearning\Learing.Data\obj\Debug\Learing.Data.dll
+D:\Web_design\eLearning\Learing.Data\obj\Debug\Learing.Data.pdb
